@@ -6,7 +6,7 @@ Bienvenue sur le Wiki officiel d’Ecliptis !
 
 Ce guide regroupe toutes les informations essentielles sur le serveur :
 
-- [💰 Monnaie du serveur](docs/monnaie-du-serveur.md)
+- [💰 Monnaie du serveur](Docs/monnaie-du-serveur.md)
 - [🧭 Bien débuter](docs/bien-debuter.md)
 - [🐉 Les Drops & Dofus](docs/informations-drop.md)
 - [⚒️ Les Métiers](docs/metiers.md)
