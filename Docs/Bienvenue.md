@@ -15,7 +15,7 @@ Il vous suffit de :
 
 2. Dans la fenêtre de dialogue qui apparaît, cliquez sur le bouton "▶️ Commencer l'aventure !"
 
-[🌟 Bienvenue](image/Screenshot_1.png) 
+[Bienvenue](image/Screenshot_1.png) 
 
 
 
