@@ -2,6 +2,8 @@
 
 Bienvenue sur le Wiki officiel d’Ecliptis !
 
+-
+
 Ce guide regroupe toutes les informations essentielles sur le serveur :
 
 - [🧭 Bien débuter](docs/bien-debuter.md)
