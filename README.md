@@ -13,5 +13,3 @@ Ce guide regroupe toutes les informations essentielles sur le serveur :
 - [👑 Les Prestiges](docs/prestiges.md)
 - [🗿 Les Reliques](docs/reliques.md)
 - [☀️ Les Bonus journaliers](docs/bonus-journalier.md)
-
-> 📘 Mis à jour régulièrement avec les nouveautés du serveur.
