@@ -22,6 +22,11 @@ Il vous suffit de :
 Pour avoir accès au contenue du serveur vous pouvez Utiliser le panel de teleportation mis a votre disposition : 
 
 
+![Bienvenue](../Screenshot_4.png)
+
+
+## 🌐 Rejoignez la Communauté !
+Pour ne rien manquer de l’actualité du serveur, des événements ou des mises à jour, rejoignez notre [Discord officiel]([https://discord.gg/tonlien](https://discord.gg/Egyvw9XW). 💬
 
 
 
