@@ -30,9 +30,11 @@ Apporte-lui toutes les ressources demandées, et il t’échangera **un premier 
 Pendant ton exploration d’Incarnam, garde l’œil ouvert ! 👀  
 Certains **monstres de la zone** ont une **chance rare de faire tomber une Relique du Débutant**, un objet unique symbolisant ta première véritable découverte sur Ecliptis.  
 
-Ces reliques sont **collectionnables**, et pourront être utilisées plus tard dans ton aventure pour débloquer **des récompenses spéciales** 🔮.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
----
+![Bien débuter](../Screenshot_9.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🗺️ Et Après ?
 
@@ -40,11 +42,10 @@ Une fois ton équipement obtenu et ta relique en poche, il est temps de **quitte
 Tu pourras alors :  
 - 🎯 Commencer ton aventure principale  
 - ⚒️ Découvrir les métiers du serveur  
-- 💰 Gagner tes premiers **Ecli'Tons**  
+- 💰 Gagner tes premiers **Eclip'Tons**  
 - 🏹 Explorer les zones de haut niveau et leurs secrets  
 
-> 💡 Conseil : prends le temps de bien explorer Incarnam avant de partir — certains secrets ou monstres rares n’apparaissent qu’à des moments précis !
+> 💡 Conseil : N'oublie pas de passer au shop kamas — Cela t'aiderai grandement pour ton leveling ! 
 
 ---
 
-📜 *Dernière mise à jour :* Novembre 2025  
