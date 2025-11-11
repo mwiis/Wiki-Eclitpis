@@ -2,7 +2,7 @@
 
 Bienvenue sur le Wiki officiel d’Ecliptis !
 
--
+- [🌟 Bienvenue](Docs/Bienvenue.md)
 
 Ce guide regroupe toutes les informations essentielles sur le serveur :
 
