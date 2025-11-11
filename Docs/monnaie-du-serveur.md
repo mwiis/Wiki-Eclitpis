@@ -1,13 +1,16 @@
-🪙 La Monnaie d'Estes : L'Es'Ton
-En plus des Kamas, Estes possède sa propre monnaie unique, essentielle à votre progression : l'Es'Ton !
+🪙 La Monnaie d'Eclitpis : L'Eclip'ton
+En plus des Kamas, Ecliptis possède sa propre monnaie unique, essentielle à votre progression : L'Eclip'ton !
 
-❓ Qu'est-ce que l'Es'Ton ?
-L'Es'Ton (💎) est la monnaie phare du serveur. C'est elle qui vous permettra d'acheter les objets les plus convoités pour vous optimiser.
+❓ Qu'est-ce que L'Eclip'ton ?
+L'Eclip'ton (💎) est la monnaie phare du serveur. C'est elle qui vous permettra d'acheter les objets les plus convoités pour vous optimiser.
 
 💰 Comment l'obtenir ?
-C'est très simple : les Es'Ton se droppent automatiquement à la fin de chaque combat que vous remportez contre des monstres. Plus vous combattez, plus vous vous enrichissez !
+C'est très simple : les Eclip'ton se droppent automatiquement à la fin de chaque combat que vous remportez contre des monstres. Plus vous combattez, plus vous vous enrichissez !
 
-Vous pouvez voir votre solde d'Es'Ton directement dans votre inventaire, à côté de vos Kamas.
+Vous pouvez voir votre solde d'Eclip'ton directement dans votre inventaire, à côté de vos Kamas.
+
+
+
 
 
 🏪 À quoi servent les Es'Ton ?
