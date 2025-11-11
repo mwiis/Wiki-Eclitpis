@@ -38,3 +38,58 @@ Petit Parchemin de Vitalité : 15 000 Eclip'ton
 
 
 Astuce : Farmez les Eclip'ton pour monter rapidement toutes vos caractéristiques à 200 !
+
+# 💎 Les Ogrines sur Ecliptis Ecliptiens
+
+## 🌟 Qu'est-ce que les Ogrines Ecliptiens ?
+
+Les **Ogrines** sont une monnaie **premium** sur le serveur **Ecliptis**, utilisée pour obtenir des avantages exclusifs, des objets rares, ou encore des services spéciaux.  
+Elles sont **séparées de la monnaie classique (Eclip'Ton)** et servent à valoriser votre progression tout en soutenant le serveur.
+
+---
+
+![Ogrines](../Screenshot_7.png)
+
+---
+
+## 🪄 Comment obtenir des Ogrines Ecliptiens ?
+
+Il existe plusieurs moyens pour en acquérir :
+
+| 🧙‍♂️ **Événements spéciaux** | Des concours, tournois ou animations permettent parfois de gagner des Ogrines. 
+| 💎 **Dons / Boutique du serveur** | Vous pouvez obtenir des Ogrines en soutenant le serveur via la boutique officielle. 
+| 🎁 **Récompenses communautaires** | Certains paliers d’objectifs Discord ou d’événements communautaires offrent des Ogrines à tous les joueurs. 
+| 🏆 **Classements & Tournois** | Les meilleurs joueurs de certaines catégories (votes) reçoivent un gain en Ogrines. | En fin de saison |
+
+---
+
+## 🏪 À quoi servent les Ogrines Ecliptiens ?
+
+Les Ogrines Ecliptiens peuvent être dépensées pour obtenir divers avantages :
+
+- 🎨 **Objets cosmétiques** : panoplies, familiers, auras et effets visuels uniques  
+- ⚙️ **Services** : changement de classe, renomination, transferts de ressources  
+- ⚔️ **Boosts temporaires** : bonus d’XP, de drop ou de métiers  
+- 🏰 **Objets exclusifs** : familiers spéciaux, Dofus alternatifs ou items rares  
+
+---
+
+## 📍 Où les utiliser ?
+
+Les Ogrines peuvent être échangées ou dépensées :
+
+- Via la **Boutique Ogrines**, situé dans le panel de téleportation    
+- Via **Havres des PNJ**, située dans le panel de téleportation
+
+---
+
+## 💡 Astuce du serveur
+> Conservez vos Ogrines pour les offres limitées : certains objets légendaires ou cosmétiques ne sont disponibles que durant les événements spéciaux 🎁
+
+---
+
+## 🔄 Informations importantes
+ 
+- Les taux de conversion et les objets disponibles peuvent **évoluer au fil des mises à jour**.  
+- Toute tentative de duplication ou d’exploitation des Ogrines est **strictement interdite** ⚠️
+
