@@ -17,6 +17,13 @@ Il vous suffit de :
 
 ![Bienvenue](../Screenshot_1.png)
 
+## 📍 Les Points Clés du Serveur
+
+Pour avoir accès au contenue du serveur vous pouvez Utiliser le panel de teleportation mis a votre disposition : 
+
+
+
+
 
 
 
