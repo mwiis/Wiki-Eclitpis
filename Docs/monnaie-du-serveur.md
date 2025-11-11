@@ -9,32 +9,32 @@ C'est très simple : les Eclip'ton se droppent automatiquement à la fin de chaq
 
 Vous pouvez voir votre solde d'Eclip'ton directement dans votre inventaire, à côté de vos Kamas.
 
+![Monnaie du serveur](../Screenshot_2.png)
 
 
 
-
-🏪 À quoi servent les Es'Ton ?
-Votre fortune en Es'Ton vous donne accès à une boutique spéciale ! Vous pouvez échanger vos Es'Ton contre des objets puissants auprès du PNJ  nommé le "Broyeur d'Es'Ton".
+🏪 À quoi servent les Eclip'ton ?
+Votre fortune en Eclip'ton vous donne accès à une boutique spéciale ! Vous pouvez échanger vos Es'Ton contre des objets puissants auprès du PNJ  nommé le "Broyeur d'Es'Ton".
 
 Ce PNJ vous propose un MAGASIN rempli d'objets utiles :
 
 📜 Parchemins de Caractéristique +50 :
 
-Petit Parchemin d'Agilité : 20 000 Es'Ton
+Petit Parchemin d'Agilité : 15 000 Eclip'ton
 
-Petit Parchemin d'Intelligence : 20 000 Es'Ton
+Petit Parchemin d'Intelligence : 15 000 Eclip'ton
 
-Petit Parchemin de Chance : 20 000 Es'Ton
+Petit Parchemin de Chance : 15 000 Eclip'ton
 
-Petit Parchemin de Force : 20 000 Es'Ton
+Petit Parchemin de Force : 15 000 Eclip'ton
 
 Petit Parchemin de Sagesse : 20 000 Es'Ton
 
-Petit Parchemin de Vitalité : 20 000 Es'Ton
+Petit Parchemin de Vitalité : 15 000 Eclip'ton
 
-🍻 Es'Pinte : 100 000 Es'Ton
+🛡️ Guildalogemme : 10 000 Eclip'ton
 
-🛡️ Guildalogemme : 200 000 Es'Ton
+![Monnaie du serveur](../Screenshot_6.png)
 
 
-Astuce : Farmez les Es'Ton pour monter rapidement toutes vos caractéristiques à 100 !
+Astuce : Farmez les Eclip'ton pour monter rapidement toutes vos caractéristiques à 200 !
